@@ -42,3 +42,7 @@ bower.json
 
 # Ignore Byebug command history file.
 .byebug_history
+
+# add for react
+/node_modules
+/yarn-error.log
